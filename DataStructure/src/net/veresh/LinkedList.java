@@ -1,10 +1,15 @@
+package net.veresh;
+/**
+ * Simple linked list class.
+ * @author veresh
+ *
+ */
+public class LinkedList implements LinkedListI{
 
-public class LinkedList {
-
-	private String data;
+	private Object data;
 	private LinkedList next;
 	
-	public String getData() {
+	public Object getData() {
 		return this.data;
 	}
 	

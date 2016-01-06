@@ -1,3 +1,9 @@
+/**
+ * All operations in a LinkedList.
+ * @author veresh
+ *
+ */
+package net.veresh;
 
 public class LinkedListOperations {
 

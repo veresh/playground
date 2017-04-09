@@ -4,7 +4,7 @@ package net.veresh;
  * @author veresh
  *
  */
-public class LinkedList implements LinkedListI{
+public class LinkedList {
 
 	private Object data;
 	private LinkedList next;
